@@ -135,7 +135,7 @@ if get_email_address and get_password and get_team_id:
             else:
                 st.error('Something went wrong. Are you sure you inserted the correct credentials?')
         
-        #run the functions
+        #run the functions :)
         get_ids()
         get_player_points()
         get_player_info()
